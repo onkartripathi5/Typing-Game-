@@ -1,0 +1,20 @@
+.highlight{
+    background-color: white;
+}
+.error{
+    background-color: lightcoral;
+    border: red;
+}
+.body{
+    background-color: salmon;
+}
+h1{
+    background-color: pink;
+}
+p{
+    background-color:salmon;
+}
+h4{
+    background-color:orange;
+    position: absolute;
+}
